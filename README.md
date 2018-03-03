@@ -1,2 +1,2 @@
 # UniqueBeds-Test
-Test website for personal project
+This is just a personal project for a family member to implement his ideas onto a website.
