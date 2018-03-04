@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+* Makeshift CSS Reset */
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+/* Tell the browser to render HTML 5 elements as block */
+header, footer, section, aside, nav, article
+{
+    display: block;
+}
+
+body {font-family: "Times New Roman", Georgia, Serif;}
+h1,h2,h4,h5,h6 {
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+}
+h3 {
+	font-family: "Playfair Display";
+    letter-spacing: 10px;
+}
+.contact {
+	border: 10px;
+}
