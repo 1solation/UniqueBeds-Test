@@ -15,7 +15,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="beds.css">
 </head>
-<body> 
+<body>
 <!-- Navbar (sit on top) -->
 <div class="w3-top" class="dropdown">
   <div class="w3-bar w3-white w3-wide w3-padding w3-card w3-large">
@@ -24,7 +24,7 @@
     <div class="w3-right w3-hide-small">
       <a href="Beds.php" class="w3-bar-item w3-button">Beds</a>
        <div class="w3-dropdown-content w3-bar-block w3-border">
-     
+
     </div>
       <a href="#furniture" class="w3-bar-item w3-button">Furniture</a>
       <a href="#about" class="w3-bar-item w3-button">About</a>
@@ -37,7 +37,7 @@
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
   <img src="img/bed-header-ex.jpg" width="1500" height="800">
   <div class="w3-display-middle w3-margin-top w3-center">
-    <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b>UNIQUE</b></span> 
+    <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b>UNIQUE</b></span>
     <span class="w3-hide-small w3-text-light-grey">Beds & Furniture</span></h1>
   </div>
 </header>
@@ -111,7 +111,7 @@
       laboris nisi ut aliquip ex ea commodo consequat.
     </p>
   </div>
-  
+
   <!-- Contact Section -->
   <div class="w3-container w3-padding-32" id="contact">
     <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Contact</h3>
@@ -126,7 +126,7 @@
       </button>
     </form>
   </div>
-  
+
 <!-- End page content -->
 </div>
 
@@ -158,10 +158,6 @@ Read more at: https://www.w3schools.com/graphics/google_maps_basic.asp
 <br><br>
 
 <br><br>
-<header>
-<h1> Ok i go sleep now Love U </h1>
-<h3></h3>
-</header>
 </body>
 
 </html>
