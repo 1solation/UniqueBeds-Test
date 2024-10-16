@@ -149,7 +149,7 @@ function myMap()
   marker.setMap(map);
 }
 </script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC0G9nFooIohbgx94NGRS7j6Lbqyp8aJdk&callback=myMap"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=${key}&callback=myMap"></script>
 <!--
 To use this code on your website, get a free API key from Google.
 Read more at: https://www.w3schools.com/graphics/google_maps_basic.asp
